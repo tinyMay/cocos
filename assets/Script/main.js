@@ -74,7 +74,7 @@ cc.Class({
         }
         cc.game.config.showFPS=false;
 
-        cc.director.setDisplayStats(false);
+        // cc.director.setDisplayStats(false);
 
         this.eventListen();
 
